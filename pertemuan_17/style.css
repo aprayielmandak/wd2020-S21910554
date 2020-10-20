@@ -1,0 +1,20 @@
+body{
+    font-family: 'Playfair Display', serif;
+    font-size: 2em; /* 100% = 16px */
+    text-align: center;
+}
+
+h1{
+    font-family:'Special Elite', cursive;
+    font-size: 4.625rem;
+    width: 50%;
+    margin: 0 auto;
+}
+h2{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 2em;
+}
+p{
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+}
