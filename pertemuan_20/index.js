@@ -24,8 +24,8 @@
 // console.log(angka1 + angka2);
 
 // let umur=30;
-// let namaDepan = "Vini";
-// let namaBelakang = "Vanisa"
+// let namaDepan = "Aprayiel";
+// let namaBelakang = "Mandak"
 // console.log("Nama Saya " + namaDepan + " " + namaBelakang + ". Umur saya adalah" + umur + "tahun"
 // );
 
