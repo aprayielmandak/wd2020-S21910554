@@ -64,7 +64,7 @@ console.log(Mandak);
 
 //sort()
 let Key = ["Aprayiel", "Hallo", 18, true];
-Aprayiel.sort();
+Key.sort();
 
 console.log(Key);
 
