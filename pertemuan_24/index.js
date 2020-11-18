@@ -46,6 +46,14 @@ john.unshift("John");
 john.unshift("Prof");
 console.log(john.join(" - "));
 
+//splice()
+john.splice("john");
+console.log(john.join(" - "));
+
+//concat()
+let nama = john.concat("Mandak","Aprayiel");
+console.log(nama);
+
 //slice()
 let Aprayiel = ["Aprayiel", "Doe", 18, true];
 let Kezia = ["Kezia", "Doe", 19, true];
